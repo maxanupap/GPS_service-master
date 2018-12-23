@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DRIVER SERVICE</string>
+
+    <string-array name="text">
+        <item>- DRIVER START -</item>
+        <item>- DRIVER START -</item>
+    </string-array>
+</resources>
